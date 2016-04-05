@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>my webpage</title>
+div{
+heigt:30%;
+width:100%;
+background-color:green;}
+</head>
+<body>
+<div>
+<p>sitar</p>
+<p>RealityCompany</p>
+<p>WorldWideCorporateRealEstates</p></div>
